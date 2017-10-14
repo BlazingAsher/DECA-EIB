@@ -1,4 +1,4 @@
-# Tile page:
+# Title page
 INDEPENDENT BUSINESS PLAN  
 
 Vincent Massey Secondary School  
