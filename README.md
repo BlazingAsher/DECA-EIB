@@ -2,7 +2,8 @@
 EIB Draft for DECA
 If you want to specify bold, italic, etc. use MARKDOWN. Here is a quick list:
 
-Italic: surrond word with underscores. Ex. \_test\_ would be _test_
+Italic: surrond word with underscores. Ex. \_test\_ would be _test_  
+
 Bold: surrond word with two asterisks. Ex. \**test\** would be **test**
 
 Titles and subtitles:
