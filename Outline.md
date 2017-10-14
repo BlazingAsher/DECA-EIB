@@ -1,11 +1,18 @@
 # Tile page:
-INDEPENDENT BUSINESS PLAN
-Vincent Massey Secondary School
-Vincent Massey Secondary School
-1800 Liberty St 
-Windsor, ON N9E 1J2
-Daniel Yang, David Hui, Jim Ji
-October 13, 2017
+INDEPENDENT BUSINESS PLAN  
+
+Vincent Massey Secondary School  
+
+Vincent Massey Secondary School  
+
+1800 Liberty St  
+
+Windsor, ON N9E 1J2  
+
+Daniel Yang, David Hui, Jim Ji  
+
+October 13, 2017  
+
 
 1. Executive Summary
 2. Problem
