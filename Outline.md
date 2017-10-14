@@ -13,7 +13,7 @@ Daniel Yang, David Hui, Jim Ji
 
 October 13, 2017  
 
-# Essay
+# Outline
 1. Executive Summary  
 2. Problem
 - Transportaion during vacation
