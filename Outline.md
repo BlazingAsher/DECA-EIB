@@ -13,7 +13,7 @@ Daniel Yang, David Hui, Jim Ji
 
 October 13, 2017  
 
-
+# Essay
 1. Executive Summary
 2. Problem
 3. Customer Segments
